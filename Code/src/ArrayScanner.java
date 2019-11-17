@@ -19,8 +19,7 @@ public class ArrayScanner {
 	for(int i =0;i<intArray.length;i++) {
 		System.out.println("Your Array is:"+intArray[i]);
 	}
-	
-	
+		
 	}
 		
 }
